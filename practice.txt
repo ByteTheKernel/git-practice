@@ -1,4 +1,4 @@
 Практика по Git
 Изменения из ветки feature-edit
 
-CONFLICT_LINE=base
+CONFLICT_LINE=ours
